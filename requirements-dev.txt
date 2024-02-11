@@ -16,3 +16,4 @@ types-requests
 types-xxhash
 typing-extensions!=3.10.0.1
 voluptuous
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
